@@ -31,36 +31,36 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [The Morris Worm Incident of 1988](/pdf/sample_presentation.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class:**  Principles of Cybersecurity - CSCI 405
+-   **Grade:** 100/100
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Identity Theft](/pdf/sample_presentation.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class:** Principles of Cybersecurity - CSCI 405
+-   **Grade:** 100/100
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [Impacts of AI on Cybersecurity](/pdf/sample_presentation.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class:** Survey of Scripting Languages - CSCI 301
+-   **Grade:** 100/100
 
 ---
 
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [ILOVEYOU - A Romantic Viral Worm](https://youtu.be/GRgHGwiZ488)
 
-- **Class:** 
-- **Grade:**
+- **Class:** Principles of Cybersecurity - CSCI 405
+- **Grade:** 100/100
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [Forensic Investigation](/pdf/sample_presentation.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class:** Computer Science Internship - CSCI 469
+- **Grade:** N/A
 
 ---
 
