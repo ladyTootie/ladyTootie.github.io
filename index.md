@@ -31,17 +31,17 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [The Morris Worm Incident of 1988](/pdf/sample_presentation.pdf)
+### [The Morris Worm Incident of 1988](/pdf/White+Paper+1+APA.pdf)
 
 -   **Class:**  Principles of Cybersecurity - CSCI 405
 -   **Grade:** 100/100
 
-### [Identity Theft](/pdf/sample_presentation.pdf)
+### [Identity Theft](/pdf/White+Paper+2.pdf)
 
 -   **Class:** Principles of Cybersecurity - CSCI 405
 -   **Grade:** 100/100
 
-### [Impacts of AI on Cybersecurity](/pdf/sample_presentation.pdf)
+### [Impacts of AI on Cybersecurity](/pdf/Impact+of+AI+on+Cybersecurity.pdf)
 
 -   **Class:** Survey of Scripting Languages - CSCI 301
 -   **Grade:** 100/100
