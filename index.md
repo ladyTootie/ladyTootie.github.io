@@ -57,7 +57,7 @@ Presentations
 - **Grade:** 100/100
 
 
-### [Forensic Investigation](/pdf/sample_presentation.pdf)
+### [Forensic Investigation](/pdf/Internship_Capstone.pdf)
 
 - **Class:** Computer Science Internship - CSCI 469
 - **Grade:** N/A
