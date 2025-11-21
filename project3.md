@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Statistics GUI Calculator
+LAN Lab Website
 ===============
 
 -   **Class:** Applied Networking - CSCI 332
@@ -23,15 +23,15 @@ Navigate to the provided repository and download the "Lab_5/Networking" folder. 
 
 At the top of the website, there are hyperlinks to see pictures from the different parts of the project. The link "Constructing a LAN Using One Router" leads to a page where the user has to scroll down to see extra content. 
 
-![screenshot](images/statsMean.png)  
-Fig 1. Mean Calculation.
+![screenshot](images/ethernetCables.png)  
+Fig 1. Image of the ethernet cables we created.
 
-![screenshot](images/statsMode.png)  
-Fig 2. Mode Calculation.
+![screenshot](images/sambaServerStatus.png)  
+Fig 2. Image of the status of my Samba server.
 
-![screenshot](images/meanMedianMode.png)
+![screenshot](images/experimentResults.png)
 
-Fig 3. Mean, median, and mode calculations.
+Fig 3. Image of a table of the file transfer rates on the LAN, and the setup process of the Samba servers.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
