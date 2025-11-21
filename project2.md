@@ -17,11 +17,13 @@ This program is a Statistics calculator. It is a GUI program in Java created usi
 
 ## How to compile and run the program
 
-In the terminal navigate to the folder where the program resides, the run this command to compile the program:
-javac StatisticsGUI.java
+In the terminal navigate to the folder where the program resides, then run this command to compile the program:
+
+**javac StatisticsGUI.java**
 
 Then this command to run it:
-java StatisticsGUI
+
+**java StatisticsGUI**
 
 ## UI Design
 
