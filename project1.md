@@ -11,18 +11,12 @@ Final Project - STIG Powershell Script
 
 ## Project description
 
-For my final project in Surver of Scripting Languages, I chose to check for compliance on a Windows OS using STIG. Since my major is Cybersecurity, I figured this would be good practice. I used PowerShell to write my script, and I checked for five of the STIG compliances on a Windows machine. One of the biggest learning curves of this project was figuring out the commands to check for compliance. Depending on what you are checking, the syntax for the command will vary. This project gave me insight on how useful writing scripts for automation is. 
+For my final project in Surver of Scripting Languages, I chose to check for compliance on a Windows OS using STIG. Since my major is Cybersecurity, I figured this would be good practice. I used Windows PowerShell ISE to write my script, and I checked for five of the STIG compliances on a Windows machine. The compliances I checked for were PowerShell v2 disablement, printing over HTTP is prevented, convenience PIN disablement, Simple TCP/IP Services are installed, and if SEHOP is enabled. This script must be run in administrator mode in PowerShell ISE to properly check for compliance.
 
-## How to compile and run the program
+## How to run the program
 
-How to compile (if applicable) and run the project.
+Download the ".ps1" file from the GitHub repository link. Then open Windows PowerShell ISE in administator mode, then open the file in the ISE and press the "run" button. 
 
-```bash
-cd ./project
-python setup.py
-```
-
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
 
 ## UI Design
 
@@ -30,8 +24,8 @@ Almost every program requires user interaction, even command-line programs. Incl
 
 Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+![screenshot](images/Scripting_example.png)  
+Fig 1. Example output when script is ran in administrator mode.
 
 ![screenshot](images/dummy_thumbnail.jpg)  
 Fig 2. Example output after input is processed.
