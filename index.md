@@ -17,7 +17,7 @@ Programming Projects
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Personal Website | CSCI 332](project3.md)
+### [LAN Lab Website | CSCI 332](project3.md)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
