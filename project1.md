@@ -11,7 +11,7 @@ Final Project - STIG Powershell Script
 
 ## Project description
 
-For my final project in Surver of Scripting Languages, I chose to check for compliance on a Windows OS using STIG. Since my major is Cybersecurity, I figured this would be good practice. I used Windows PowerShell ISE to write my script, and I checked for five of the STIG compliances on a Windows machine. The compliances I checked for were PowerShell v2 disablement, printing over HTTP is prevented, convenience PIN disablement, Simple TCP/IP Services are installed, and if SEHOP is enabled. This script must be run in administrator mode in PowerShell ISE to properly check for compliance.
+For my final project in Surver of Scripting Languages, I chose to check for compliance on a Windows OS using STIG. Since my major is Cybersecurity, I figured this would be good practice. I used Windows PowerShell ISE to write my script, and I checked for five of the STIG compliances on a Windows machine. The compliances I checked for were PowerShell v2 disablement, printing over HTTP is is diabled, convenience PIN is disabled, simple TCP/IP Services are not installed, and if SEHOP is enabled. The scripts fetches each features status and outputs a pass or fail message depending on the status. Once all features are checked, the program gives a compliance percentage telling the user how compliant the machine is with the selected features. This script must be run in administrator mode in PowerShell ISE to properly check for compliance.
 
 ## How to run the program
 
@@ -22,7 +22,7 @@ Download the ".ps1" file from the GitHub repository link. Then open Windows Powe
 
 Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+When the program is ran in administrator mode, it'll proceed with all feature checks without any error messages (see Fig 1). If the program is not ran in administrator mode, the check for PowerShell v2, printing over HTTP, and TCP/IP compliance will throw an error message because the program needs to have elevated privelage to check those features (see Fig 2).
 
 ![screenshot](images/Scripting_adminMode.png)  
 Fig 1. Example output when script is ran in administrator mode.
