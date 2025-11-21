@@ -6,7 +6,7 @@ Final Project - STIG Powershell Script
 -   **Class:** Survey of Scripting Languages - CSCI 301
 -   **Grade:** 100/100
 -   **Language(s):** Powershell
--   **Source Code Repository:** [features/mastering-markdown]([https://guides.github.com/features/mastering-markdown/](https://github.com/ladyTootie/CSCI-301-code-repository/blob/master/FinalProject/STIG_Compliance.ps1))  
+-   **Source Code Repository:** [features/mastering-markdown]([https://guides.github.com/features/mastering-markdown/](https://github.com/ladyTootie/STIG-Compliance))  
     (Please [email me](mailto:trthompson@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
