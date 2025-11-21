@@ -6,7 +6,9 @@ Final Project - STIG Powershell Script
 -   **Class:** Survey of Scripting Languages - CSCI 301
 -   **Grade:** 100/100
 -   **Language(s):** Powershell
--   **Source Code Repository:** [STIG Compliance]([https://github.com/ladyTootie/STIG-Compliance])  
+-   **Source Code Repository:** <a href="https://github.com/ladyTootie/STIG-Compliance"
+  onclick="window.open('https://github.com/ladyTootie/STIG-Compliance', '_self');">
+  STIG Compliance </a> 
     (Please [email me](mailto:trthompson@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
