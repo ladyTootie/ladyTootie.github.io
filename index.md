@@ -7,22 +7,22 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:trthompson@student.csuniv.edu?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Final Project - STIG Powershell Script | CSCI 301](project1)
+### [Final Project - STIG Powershell Script | CSCI 301](project1.md)
 
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Statistics GUI Calculator | CSCI 325](project2)
+### [Statistics GUI Calculator | CSCI 325](project2.md)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Personal Website | CSCI 332](project1)
+### [Personal Website | CSCI 332](project3.md)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Final Project - UDP Client and Server | CSCI 332](project1)
+### [Final Project - UDP Client and Server | CSCI 332](project4.md)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
