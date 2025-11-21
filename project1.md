@@ -1,17 +1,17 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Final Project - STIG Powershell Script
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Class:** Survey of Scripting Languages - CSCI 301
+-   **Grade:** 100/100
+-   **Language(s):** Powershell
+-   **Source Code Repository:** [features/mastering-markdown]([https://guides.github.com/features/mastering-markdown/](https://github.com/ladyTootie/CSCI-301-code-repository/blob/master/FinalProject/STIG_Compliance.ps1))  
+    (Please [email me](mailto:trthompson@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+For my final project in Surver of Scripting Languages, I chose to check for compliance on a Windows OS using STIG. Since my major is Cybersecurity, I figured this would be good practice. I used PowerShell to write my script, and I checked for five of the STIG compliances on a Windows machine. One of the biggest learning curves of this project was figuring out the commands to check for compliance. Depending on what you are checking, the syntax for the command will vary. This project gave me insight on how useful writing scripts for automation is. 
 
 ## How to compile and run the program
 
