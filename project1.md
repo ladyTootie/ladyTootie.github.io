@@ -9,7 +9,8 @@ Final Project - STIG Powershell Script
 -   **Source Code Repository:** <a href="https://github.com/ladyTootie/STIG-Compliance"
   onclick="window.open('https://github.com/ladyTootie/STIG-Compliance', '_self');">
   STIG Compliance </a> 
-    (Please [email me](mailto:trthompson@student.csuniv.edu?subject=GitHub%20Access) to request access.)
+
+  (Please [email me](mailto:trthompson@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
