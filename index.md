@@ -9,22 +9,22 @@ Programming Projects
 ---
 ### [Final Project - STIG Powershell Script | CSCI 301](project1.md)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 1 Thumbnail Name](images/Scripting_adminMode.png)
 
 ---
 ### [Statistics GUI Calculator | CSCI 325](project2.md)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 2 Thumbnail Name](images/statsMean.png)
 
 ---
 ### [LAN Lab Website | CSCI 332](project3.md)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 3 Thumbnail Name](images/ethernetCables.png)
 
 ---
 ### [Final Project - UDP Client and Server | CSCI 332](project4.md)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 4 Thumbnail Name](images/AppleReceived.png)
 
 ---
 
