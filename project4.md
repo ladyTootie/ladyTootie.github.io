@@ -30,15 +30,15 @@ Then execute these commands to run the programs:
 
 The user will be prompted by both the client and server to provide a listening port (See Fig 1). Then the client will ask for an IP address and a file name to transfer said file. The client and server will display acknowledgements confirming the files bytes were received.
 
-![screenshot](images/.png)  
-Fig 1. Image of the ethernet cables we created.
+![screenshot](images/terminalAirdrop.png)  
+Fig 1. Client and server prompting for input.
 
-![screenshot](images/.png)  
-Fig 2. Image of the status of my Samba server.
+![screenshot](images/transmitApple.png)  
+Fig 2. File transmitted from client to server.
 
-![screenshot](images/.png)
+![screenshot](images/AppleReceived.png)
 
-Fig 3. Image of a table of the file transfer rates on the LAN, and the setup process of the Samba servers.
+Fig 3. Received file with new extension.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
