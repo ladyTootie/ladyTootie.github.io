@@ -4,7 +4,7 @@ Statistics GUI Calculator
 ===============
 
 -   **Class:** Object Oriented Programming - CSCI 325
--   **Grade:** N/A
+-   **Grade:** 100/100
 -   **Language(s):** Java
 -   **Source Code Repository:** <a href="https://github.com/ladyTootie/Statistics-GUI-Calculator" onclick="window.open('https://github.com/ladyTootie/Statistics-GUI-Calculator', '_self');">
   Statistics GUI Calculator </a>
