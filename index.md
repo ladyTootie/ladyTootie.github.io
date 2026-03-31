@@ -7,7 +7,7 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:trthompson@student.csuniv.edu?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [ACE Senior Project Documentation](https://github.com/ladyTootie/ACE-Senior-Project/tree/main/Documentation)
+### [ACE Senior Project Documentation](pdf/ACE_Documentation_PDFs)
 
 ---
 ### [Final Project - STIG Powershell Script | CSCI 301](project1.md)
