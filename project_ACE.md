@@ -10,7 +10,7 @@ ACE Senior Project Documentation
     (Please [email me](mailto:trthompson@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
-This page contains links to my documentation for the senior project I did in collaboration with NIWC and Core4ce. I researched the reliability of AI/Machine Learning-based Intrusion Detection Systems and created a proof of concept demonstrating their strengths and weaknesses. I developed a Multi-Layer-Perceptron ML model that analyzed logs from the IDS software, Zeek. The following documentation contains sources that helped me develop a research plan, process of synthesizing my hypothesis, designing the testbed, data acquisition, and analysis of my test cases. There is also a white paper that summarizes my entire research experience and my findings. In total, there are 10 documents, and they will be listed in order of completion.
+This page contains links to my documentation for the senior project I did in collaboration with NIWC and Core4ce. I researched the reliability of AI/Machine Learning-based Intrusion Detection Systems and created a proof of concept demonstrating their strengths and weaknesses. I developed a Multi-Layer-Perceptron ML model that analyzed logs from the IDS software, Zeek. The following documentation contains sources that helped me develop a research plan, process of synthesizing my hypothesis, designing the testbed, data acquisition, and analysis of my test cases. There is also a white paper that summarizes my entire research experience and my findings. In total, there are 10 documents, and they are listed in order of completion.
 
 Documentation
 --------------
