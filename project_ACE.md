@@ -14,6 +14,7 @@ This page contains links to my documentation for the senior project I did in col
 
 
 ### [ACE Cyber Project Charter](/pdf/ACE_Documentation_PDFs/2025-Fall-ACE_Cyber_Project_Charter v2.2.pdf)  
+### [Impacts of AI on Cybersecurity](/pdf/Impact+of+AI+on+Cybersecurity.pdf)
 
 [screenshot](images/transmitApple.png)  
 Fig 2. File transmitted from client to server.
