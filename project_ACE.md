@@ -15,32 +15,23 @@ This page contains links to my documentation for the senior project I did in col
 
 ### [ACE Cyber Project Charter](</pdf/ACE_Documentation_PDFs/2025-Fall-ACE_Cyber_Project_Charter v2.2.pdf>)
 
-### [ACE Cyber Preliminary Literature Map](</pdf/ACE_Documentation_PDFs
-/2025-Fall-ACE_Cyber_Project_Preliminary_Literature_Map_v2.1.pdf>)  
+### [ACE Cyber Preliminary Literature Map](</pdf/ACE_Documentation_PDFs/2025-Fall-ACE_Cyber_Project_Preliminary_Literature_Map_v2.1.pdf>)  
 
-### [ACE Cyber Research Question & Hypothesis](/pdf/ACE_Documentation_PDFs
-/2025-Fall-ACE_Cyber_Project_Research-Hypothesis_v.1.5.pdf)  
+### [ACE Cyber Research Question & Hypothesis](/pdf/ACE_Documentation_PDFs/2025-Fall-ACE_Cyber_Project_Research-Hypothesis_v.1.5.pdf)  
 
-### [ACE Cyber Project Research Design](/pdf/ACE_Documentation_PDFs
-/ACE-Cyber-Project-Research-Design-Templatev1.4.pdf)  
+### [ACE Cyber Project Research Design](/pdf/ACE_Documentation_PDFs/ACE-Cyber-Project-Research-Design-Templatev1.4.pdf)  
 
-### [ACE Cyber Testbed Setup & Configuration](</pdf/ACE_Documentation_PDFs
-/ACE_Cyber_Project Testbed Setup & Configuration Template v1.8.pdf>)  
+### [ACE Cyber Testbed Setup & Configuration](</pdf/ACE_Documentation_PDFs/ACE_Cyber_Project Testbed Setup & Configuration Template v1.8.pdf>)  
 
-### [ACE Cyber Data Acquisition/Synthetic Data Generation Report](/pdf/ACE_Documentation_PDFs
-/ACE_Cyber_Project_Data-Acq&Sythentic-Data-Gen-Report_v.1.5.pdf)  
+### [ACE Cyber Data Acquisition/Synthetic Data Generation Report](/pdf/ACE_Documentation_PDFs/ACE_Cyber_Project_Data-Acq&Sythentic-Data-Gen-Report_v.1.5.pdf)  
 
-### [ACE Cyber Project Test Plan](</pdf/ACE_Documentation_PDFs
-/ACE-Cyber Project Test Plan Template-v1.5.pdf>)  
+### [ACE Cyber Project Test Plan](</pdf/ACE_Documentation_PDFs/ACE-Cyber Project Test Plan Template-v1.5.pdf>)  
 
-### [ACE Cyber Project Research Notebook](</pdf/ACE_Documentation_PDFs
-/8 ACE-Cyber Project Research Notebook TEMPLATE-v2.pdf>)  
+### [ACE Cyber Project Research Notebook](</pdf/ACE_Documentation_PDFs/8 ACE-Cyber Project Research Notebook TEMPLATE-v2.pdf>)  
 
-### [ACE Cyber Testbed Change Log](</pdf/ACE_Documentation_PDFs
-/ACE-Cyber Testbed Change Log TEMPLATE v1.pdf>)  
+### [ACE Cyber Testbed Change Log](</pdf/ACE_Documentation_PDFs/ACE-Cyber Testbed Change Log TEMPLATE v1.pdf>)  
 
-### [White Paper - IDS Resiliency Against Evasion Attacks](</pdf/ACE_Documentation_PDFs
-/IDS Resiliency Against Evasion Attacks_White Paper.pdf>)  
+### [White Paper - IDS Resiliency Against Evasion Attacks](</pdf/ACE_Documentation_PDFs/IDS Resiliency Against Evasion Attacks_White Paper.pdf>)  
 
 
 [Back to Portfolio](./)
