@@ -9,6 +9,8 @@ Programming Projects
 ---
 ### [ACE Senior Project Documentation](project_ACE.md)
 
+![Senior Project Thumbnail Name](images/aceCyber.png)
+
 ---
 ### [Final Project - STIG Powershell Script | CSCI 301](project1.md)
 
