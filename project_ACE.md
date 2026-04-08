@@ -14,7 +14,7 @@ This page contains links to my documentation for the senior project I did in col
 
 
 ### [](/pdf/)  
-### [ACE Cyber Project Charter](/pdf/ACE_Documentation_PDFs/2025-Fall-ACE_Cyber_Project_Charter v2.2.pdf)
+### [ACE Cyber Project Charter](</pdf/ACE_Documentation_PDFs/2025-Fall-ACE_Cyber_Project_Charter v2.2.pdf>)
 
 [screenshot](images/transmitApple.png)  
 Fig 2. File transmitted from client to server.
